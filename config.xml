@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Afraid of Muffins]</name>
+    <name>[afraid of muffins]</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and PhoneGap (Made by potato)
     </description>
 
     <author href="http://scratch.mit.edu/users/[dropletgame377@gmail.com]" email="[dropletgame377@gmail.com]">
-        [ShufflingPotato]
+        [shufflingpotato]
     </author>
 
 </widget>
